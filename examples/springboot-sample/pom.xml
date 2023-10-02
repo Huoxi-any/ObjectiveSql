@@ -13,7 +13,7 @@
     <artifactId>springboot-sample</artifactId>
     <version>1.0</version>
     <properties>
-        <project.build.sourceEhttps://github.com/ren-jq101/ObjectiveSql.gitncoding>UTF-8</project.build.sourceEncoding>
+        &lt;project.build.sourceEhttps://github.com/ren-jq101/ObjectiveSql.gitncoding&gt;UTF-8
         <java.version>1.8</java.version>
         <core.version>1.4.6</core.version>
         <springboot.version>1.3.4</springboot.version>
@@ -61,7 +61,7 @@
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-log4j12</artifactId>
-            <version>1.7.21</version>
+            <version>1.7.34</version>
         </dependency>
         <dependency>
             <groupId>redis.clients</groupId>
